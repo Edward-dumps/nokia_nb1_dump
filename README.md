@@ -1,0 +1,14 @@
+# NB1_00WW_FIH-user 9 PPR1.180610.011 00WW_5_15K release-keys
+- manufacturer: unknown
+- platform: 
+- codename: NB1
+- flavor: NB1_00WW_FIH-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: 00WW_5_15K
+- tags: release-keys
+- fingerprint: Nokia/NB1_00WW_FIH/NB1:9/PPR1.180610.011/00WW_5_15K:user/release-keys
+- is_ab: true
+- brand: Nokia
+- branch: NB1_00WW_FIH-user-9-PPR1.180610.011-00WW_5_15K-release-keys
+- repo: nokia_nb1_dump
